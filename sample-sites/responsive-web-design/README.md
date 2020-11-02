@@ -1,0 +1,1 @@
+A simple blog theme for responsive web design. Although it is not really a common-component, it is still a good reassurance for me.
