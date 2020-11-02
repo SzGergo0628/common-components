@@ -1,0 +1,1 @@
+This is the first step by me, in order to learn the use of repos on Git, with the help of a simple-footer
